@@ -1,0 +1,1 @@
+﻿dbfaker --s "Server=192.168.1.232;Database=game.01;User ID=pokemonx;Password=123456;Pooling=true;" --c 10000 --t "activity"
